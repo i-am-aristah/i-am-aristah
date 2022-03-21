@@ -22,7 +22,7 @@ I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | IT Consu
 
 
 #### For Business  
-- :paperclip: [My Resume/CV](https://github.com/Aristah254/Aristah254/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/i-am-aristah/i-am-aristah/blob/master/resumes/resume%20v1.0.pdf)
 - 📧 email: atsewaj@gmail.com.
 - 📞 phone: (+254) 704 758 343
 - 🇰🇪: My Area of Residence
@@ -30,7 +30,7 @@ I'm Aristah Joseph a Full Stack Web Developer | Android/IOs Developer | IT Consu
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Aristah254.Aristah254)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=i-am-aristah.i-am-aristah)
 
 
  #### More About Me
@@ -41,15 +41,15 @@ I love sharing knowledge and Also Am a good fun of Playing Chess
 
 #### Github Stats
 <p align="center">
-  <a href="https://github.com/Aristah254">
-    <img  src="https://github-readme-stats.vercel.app/api?username=Aristah254&count_private=true&theme=tokyonight&hide=contribs,prs"/>
+  <a href="https://github.com/i-am-aristah">
+    <img  src="https://github-readme-stats.vercel.app/api?username=i-am-aristah&count_private=true&theme=tokyonight&hide=contribs,prs"/>
   </a>
   
-  <a href="https://github.com/Aristah254">
+  <a href="https://github.com/i-am-aristah">
     <img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aristah254&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true&show_icons=true" />
   </a>
 </p>
 </details>
 <br>
 
-[![Aristah254's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aristah254&theme=react-dark)](https://github.com/Aristah254/github-readme-activity-graph)
+[![i-am-aristah's github activity graph](https://activity-graph.herokuapp.com/graph?username=i-am-aristah&theme=react-dark)](https://github.com/i-am-aristah/github-readme-activity-graph)
