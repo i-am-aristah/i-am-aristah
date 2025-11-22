@@ -76,4 +76,8 @@ I love sharing knowledge.
 </details>
 <br>
 
-[![i-am-aristah's github activity graph](https://activity-graph.herokuapp.com/graph?username=i-am-aristah&theme=react-dark)](https://github.com/i-am-aristah/github-readme-activity-graph)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=i-am-aristah&theme=react-dark)](https://github.com/i-am-aristah/github-readme-activity-graph)
+
+> **📈 GitHub Contribution Activity**  
+> This graph shows my recent GitHub activity. I use it to track my commits, PRs, and work over time.
+
