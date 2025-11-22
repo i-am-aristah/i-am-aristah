@@ -18,7 +18,24 @@ I'm Aristah a CTO | Full Stack Web Developer | Android/IOs Developer | IT Consul
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Java Badge](https://img.shields.io/badge/-Java-5382a1?style=for-the-badge&labelColor=black&logo=java&logoColor=5382a1)](#) [![Spring Boot Badge](https://img.shields.io/badge/-SpringBoot-008000?style=for-the-badge&labelColor=black&logo=springboot&logoColor=008000)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![Dart Badge](https://img.shields.io/badge/-Dart-007acc?style=for-the-badge&labelColor=black&logo=dart&logoColor=007acc)](#) [![PHP Badge](https://img.shields.io/badge/-Php-474A8A?style=for-the-badge&labelColor=black&logo=php&logoColor=474A8A)](#) [![Laravel](https://img.shields.io/badge/-Laravel-FF0000?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF0000)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-5382a1?style=for-the-badge&labelColor=black&logo=java&logoColor=5382a1)](#) 
+[![Spring Boot Badge](https://img.shields.io/badge/-SpringBoot-008000?style=for-the-badge&labelColor=black&logo=springboot&logoColor=008000)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) 
+[![Dart Badge](https://img.shields.io/badge/-Dart-007acc?style=for-the-badge&labelColor=black&logo=dart&logoColor=007acc)](#) 
+[![PHP Badge](https://img.shields.io/badge/-Php-474A8A?style=for-the-badge&labelColor=black&logo=php&logoColor=474A8A)](#) 
+[![Laravel Badge](https://img.shields.io/badge/-Laravel-FF0000?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF0000)](#)
+
+<!-- New Badges -->
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![NodeJS Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-306998?style=for-the-badge&labelColor=black&logo=python&logoColor=FFE873)](#)
+[![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FF6F00)](#)
+[![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FF6F00)](#)
+[![PyTorch Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=EE4C2C)](#)
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=00758F)](#)
+[![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&labelColor=black&logo=android&logoColor=3DDC84)](#)
+
 
 
 #### For Business  
