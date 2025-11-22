@@ -1,17 +1,23 @@
 ## Hi I'm Aristah <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Aristah a CTO | Full Stack Web Developer | Android/IOs Developer | IT Consultant | Software Engineer | Cyber Security Expert. I Spend most of my time coding and Learning New Technologies, I am the CTO of Tech Space.
+I’m Aristah — CTO of Tech Space, Full-Stack Web Developer, Android/iOS Developer, IT Consultant, Software Engineer, and Cybersecurity Specialist.
+I spend most of my time building software solutions, coding, and exploring new technologies.
 
+🚀 What I Do
 
+🔭 Currently working at Tech Lab Technologies as an Android/iOS Software Developer
 
+🤔 I build Android and iOS applications
 
-<!-- TODO: Add last video link -->
-- 🔭 I’m currently working at @Tech Lab Technologies as an Android/IOS software Developer
-- 🤔 I Develop Android and IOs Applications
-- 💥 I’m Also A Freelancer - I Develop Websites and Softwares
-- 📧 How to reach me: atsewaj@gmail.com.
-- 📞 phone: (+254) 704 758 343
+💥 I’m also a freelancer, developing websites, mobile apps, and custom software
 
+✨ Passionate about creating scalable systems and secure digital solutions
+
+📬 Contact Me
+
+📧 Email: atsewaj@gmail.com
+
+📞 Phone: (+254) 704 758 343
 
 
 #### Languages and Technologies
@@ -47,7 +53,8 @@ I'm Aristah a CTO | Full Stack Web Developer | Android/IOs Developer | IT Consul
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=i-am-aristah.i-am-aristah)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=i-am-aristah.i-am-aristah)
+
 
 
  #### More About Me
