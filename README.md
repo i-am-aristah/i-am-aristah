@@ -3,20 +3,13 @@
 I’m Aristah — CTO of Tech Space, Full-Stack Web Developer, Android/iOS Developer, IT Consultant, Software Engineer, and Cybersecurity Specialist.
 I spend most of my time building software solutions, coding, and exploring new technologies.
 
-🚀 What I Do
-
-🔭 Currently working at Tech Lab Technologies as an Android/iOS Software Developer
-
+What I Do
 🤔 I build Android and iOS applications
-
 💥 I’m also a freelancer, developing websites, mobile apps, and custom software
-
 ✨ Passionate about creating scalable systems and secure digital solutions
 
-📬 Contact Me
-
+Contact Me
 📧 Email: atsewaj@gmail.com
-
 📞 Phone: (+254) 704 758 343
 
 
@@ -76,7 +69,8 @@ I love sharing knowledge.
 </details>
 <br>
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=i-am-aristah&theme=react-dark)](https://github.com/i-am-aristah/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=i-am-aristah&theme=react-dark)](https://github.com/i-am-aristah/github-readme-activity-graph)
+
 
 > **📈 GitHub Contribution Activity**  
 > This graph shows my recent GitHub activity. I use it to track my commits, PRs, and work over time.
